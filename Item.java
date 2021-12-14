@@ -1,5 +1,5 @@
 // Class: Item
-// Written by: Mr. Swope
+// Written by: Mr. Swap
 // Date: 1/27/2020
 // Description: This class implements an Item.  This Item will be drawn onto a graphics panel. 
 // 
